@@ -2,9 +2,9 @@ Narendra Nagarikanti
 ====================
 
 -------------------     ----------------------------
-email                    narendranagarikanti3383@gmail.com
-phone                    6302980833
-MyCountry                India
+- email                    narendranagarikanti3383@gmail.com
+- phone                    6302980833
+- MyCountry                India
 -------------------     ----------------------------
 
 Education
@@ -14,8 +14,10 @@ Education
 
 2016-2019
 :   **BSC, Computer Science and Electrical Engineering**;Sri Harshini Degree College
+
 2014-2016
 :   **Inter, Intermediate**;Krishna Chaitanya Junior College
+
 2013-2014
 :   **ZPH school**;Pedda Golla Palli
 
