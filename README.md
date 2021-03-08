@@ -1,9 +1,43 @@
-# MCA4
-<h>welcome apssdc</h>
-<h1>Happy womens day</h1>
-<h2>Happy womens day</h2>
-<h3>Happy womens day</h3>
-<h4>Happy womens day</h4>
-<h5>Happy womens day</h5>
-<h6>Happy womens day</h6>
-<h7>Happy womens day</h7>
+Narendra Nagarikanti
+====================
+
+-------------------     ----------------------------
+email                    narendranagarikanti3383@gmail.com
+phone                    6302980833
+MyCountry                India
+-------------------     ----------------------------
+
+Education
+---------
+
+2019-2022 (expected)
+:   **MCA, Master Of Computer Applications**; Rvr&jc college of engineering
+
+    *Thesis title: machine Learning Approaches to the cricket Analysis Problem*
+
+2016-2019
+:   **BSC, Computer Science and Electrical Engineering**;Sri Harshini Degree College
+    
+Skills
+--------------------
+- C
+- C++
+- Java
+- Python
+- Web Technologies
+- Git and Github
+
+Certifications
+--------------------
+-Successfully completed **Python Programming**in Udemy
+-Successfully completed **Machine Learning**in**Unschool**Online platform
+Successfully completed **Python For Everybody**Certification on**Coursera**
+
+
+Personal Info
+--------------------
+Father Name :N.Musalaiah
+DOB         :1999-05-09
+Gender      :Male
+Address     :Guntur
+
